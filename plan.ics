@@ -1,0 +1,2612 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Prepa703//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prépa 70.3
+X-WR-TIMEZONE:Europe/Zurich
+BEGIN:VEVENT
+UID:p703-2026-11-24@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 1 · Base · total 105 min\n\nVélo qualité (soir) 
+ · 65 min · Z3\nForce-endurance HT : 15' éch\, 4x8' Z3 cadence 70-75 rp
+ m r3'\, 10' souple\n\nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (ais
+ ance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-11-25@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 1 · Base · total 50 min\n\nNatation CSS / spécifiq
+ ue · 50 min · Z4\nCSS : 400 éch\, 8x100 Z3 (CSS+3 s) r15s\, 4x50 vite 
+ r30s\, 300 souple (~2400 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-11-26@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 1 · Base · total 80 min\n\nCourse qualité · 50 mi
+ n · Z2 + Z4-Z5\nFartlek : 15' EF\, 8x1' Z4-Z5 r1' trot\, 10' EF\n\nRenfo
+ rcement (midi) · 30 min · Gainage / force\nRenfo full body : squat gobl
+ et\, fentes arrière\, SDT unilatéral\, pompes\, rowing\, gainage (3 tou
+ rs)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-11-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 1 · Base · total 60 min\n\nVélo endurance · 60 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-11-28@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 1 · Base · total 130 min\n\nNatation longue · 60 m
+ in · Z4\nSéance longue : 200 éch\, 300 éducatifs\, 1500 Z2\, 2x500 Z4
+  (seuil) r1' (~3000 m)\n\nCourse longue · 70 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-11-29@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 1 · Base · total 150 min\n\nVélo long · 150 min 
+ · Z2\nSortie endurance Z2 vallonnée (Zwift ou route)\, cadence 85-90 rp
+ m en montée
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-01@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 2 · Base · total 110 min\n\nVélo qualité (soir) 
+ · 70 min · Sweet spot\nSweet spot HT : 15' éch\, 3x10' à 88-92 % FTP 
+ r4'\, 10' souple\n\nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (aisan
+ ce respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-02@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 2 · Base · total 55 min\n\nNatation CSS / spécifiq
+ ue · 55 min · Z4\nCSS : 400 éch\, 10x100 Z4 (CSS) r15s\, 300 souple (~
+ 2500 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-03@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 2 · Base · total 85 min\n\nCourse qualité · 55 mi
+ n · Z4\n6x3' Z4 (allure seuil) r1'30 trot\n\nRenforcement (midi) · 30 m
+ in · Gainage / force\nRenfo full body : squat goblet\, fentes arrière\,
+  SDT unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-04@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 2 · Base · total 60 min\n\nVélo endurance · 60 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-05@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 2 · Base · total 135 min\n\nNatation longue · 60 m
+ in · Z4\nSéance longue : 200 éch\, 300 éducatifs\, 1500 Z2\, 2x500 Z4
+  (seuil) r1' (~3000 m)\n\nCourse longue · 75 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 2 · Base · total 165 min\n\nVélo long · 165 min 
+ · Z2\nSortie endurance Z2 vallonnée (Zwift ou route)\, cadence 85-90 rp
+ m en montée
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-08@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 3 · Base · total 115 min\n\nVélo qualité (soir) 
+ · 75 min · Sweet spot\nSweet spot HT : 3x12' à 88-92 % FTP r4'\n\nCour
+ se EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terra
+ in plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-09@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 3 · Base · total 55 min\n\nNatation CSS / spécifiq
+ ue · 55 min · Z4\nCSS : 400 éch\, 3x(4x100 Z4 r10s) r1'\, 200 souple (
+ ~2400 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-10@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 3 · Base · total 85 min\n\nCourse qualité · 55 mi
+ n · Z4\nSeuil : 15' EF\, 3x8' Z4 r2'\, 10' EF\n\nRenforcement (midi) · 
+ 30 min · Gainage / force\nRenfo full body : squat goblet\, fentes arriè
+ re\, SDT unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-11@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 3 · Base · total 60 min\n\nVélo endurance · 60 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-12@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 3 · Base · total 140 min\n\nNatation longue · 60 m
+ in · Z4\nSéance longue : 200 éch\, 300 éducatifs\, 1500 Z2\, 2x500 Z4
+  (seuil) r1' (~3000 m)\n\nCourse longue · 80 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-13@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 3 · Base · total 190 min\n\nVélo long · 180 min 
+ · Z2\nSortie endurance Z2 vallonnée (Zwift ou route)\, cadence 85-90 rp
+ m en montée\n\nEnchaînement (brick) · 10 min · Z2\nCourse enchaînée
+  10' Z2 (sensations jambes)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-15@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 4 · Base · total 75 min\n\nVélo qualité (soir) ·
+  45 min · Z2\nVélo souple Z1-Z2 + 5x1' cadence 110 rpm\n\nCourse EF (mi
+ di) · 30 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-16@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 4 · Base · total 45 min\n\nNatation CSS / spécifiq
+ ue · 45 min · Test / simulation\nTEST CSS : 400 éch\, 400 m chrono\, 5
+ ' repos\, 200 m chrono\, 300 souple
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-17@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 4 · Base · total 65 min\n\nCourse qualité · 40 mi
+ n · Z2\nEF + 6 lignes droites de 80 m\n\nRenforcement (midi) · 25 min 
+ · Gainage / force\nRenfo full body : squat goblet\, fentes arrière\, SD
+ T unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-18@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 4 · Base · total 45 min\n\nVélo endurance · 45 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-19@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 4 · Base · total 95 min\n\nNatation longue · 40 mi
+ n · Z1-Z2\nRécupération technique : 1500 m souples\, éducatifs et bat
+ tements\, aucune intensité\n\nCourse longue · 55 min · Z1-Z2\nCourse l
+ ongue Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-20@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 4 · Base · total 90 min\n\nVélo long · 90 min · 
+ Z1-Z2\nSortie endurance Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-22@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 5 · Base · total 115 min\n\nVélo qualité (soir) 
+ · 75 min · Sweet spot\nSweet spot HT : 2x20' à 88-92 % FTP r5'\n\nCour
+ se EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terra
+ in plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-23@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 5 · Base · total 55 min\n\nNatation CSS / spécifiq
+ ue · 55 min · Z4\nCSS : 400 éch\, 5x200 Z3-Z4 r20s\, 6x50 vite\, 200 s
+ ouple (~2400 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-24@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 5 · Base · total 85 min\n\nCourse qualité · 55 mi
+ n · Z5\nIntervalles 5x1 km Z5 (≈4'10-4'15) r2'\n\nRenforcement (midi) 
+ · 30 min · Gainage / force\nRenfo full body : squat goblet\, fentes arr
+ ière\, SDT unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-25@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 5 · Base · total 60 min\n\nVélo endurance · 60 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-26@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 5 · Base · total 140 min\n\nNatation longue · 60 m
+ in · Z4\nSéance longue : 200 éch\, 300 éducatifs\, 1500 Z2\, 2x500 Z4
+  (seuil) r1' (~3000 m)\n\nCourse longue · 80 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 5 · Base · total 175 min\n\nVélo long · 165 min 
+ · Z2\nSortie endurance Z2 vallonnée (Zwift ou route)\, cadence 85-90 rp
+ m en montée\n\nEnchaînement (brick) · 10 min · Z2\nCourse enchaînée
+  10' Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-29@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 6 · Base · total 110 min\n\nVélo qualité (soir) 
+ · 70 min · Z4\nSeuil HT : 4x8' à 95-100 % FTP r4'\n\nCourse EF (midi) 
+ · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-30@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 6 · Base · total 55 min\n\nNatation CSS / spécifiq
+ ue · 55 min · Z4\nCSS : 400 éch\, 12x100 Z4 r15s\, 200 souple (~2400 m
+ )
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2026-12-31@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 6 · Base · total 90 min\n\nCourse qualité · 60 mi
+ n · Z3\nTempo : 15' EF\, 2x12' Z3 r3'\, 10' EF\n\nRenforcement (midi) ·
+  30 min · Gainage / force\nRenfo full body : squat goblet\, fentes arri
+ ère\, SDT unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-01@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 6 · Base · total 60 min\n\nVélo endurance · 60 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-02@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 6 · Base · total 145 min\n\nNatation longue · 60 m
+ in · Z4\nSéance longue : 200 éch\, 300 éducatifs\, 1500 Z2\, 2x500 Z4
+  (seuil) r1' (~3000 m)\n\nCourse longue · 85 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-03@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 6 · Base · total 195 min\n\nVélo long · 180 min 
+ · Z2\nSortie endurance Z2 vallonnée (Zwift ou route)\, cadence 85-90 rp
+ m en montée\n\nEnchaînement (brick) · 15 min · Z2\nCourse enchaînée
+  15' Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-05@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 7 · Base · total 120 min\n\nVélo qualité (soir) 
+ · 80 min · Sweet spot\nSweet spot HT : 3x15' à 88-92 % FTP r4'\n\nCour
+ se EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terra
+ in plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 7 · Base · total 55 min\n\nNatation CSS / spécifiq
+ ue · 55 min · Z4\nCSS : 400 éch\, 4x300 Z4 r20s\, 4x50 vite\, 200 soup
+ le (~2400 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-07@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 7 · Base · total 90 min\n\nCourse qualité · 60 mi
+ n · Z4\nSeuil : 15' EF\, 3x10' Z4 r2'\, 10' EF\n\nRenforcement (midi) ·
+  30 min · Gainage / force\nRenfo full body : squat goblet\, fentes arri
+ ère\, SDT unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-08@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 7 · Base · total 35 min\n\nVélo endurance · 35 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-09@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 7 · Base · total 150 min\n\nNatation longue · 60 m
+ in · Z4\nSéance longue : 200 éch\, 300 éducatifs\, 1500 Z2\, 2x500 Z4
+  (seuil) r1' (~3000 m)\n\nCourse longue · 90 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-10@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 7 · Base · total 210 min\n\nVélo long · 195 min 
+ · Z2\nSortie endurance Z2 vallonnée (Zwift ou route)\, cadence 85-90 rp
+ m en montée\n\nEnchaînement (brick) · 15 min · Z2\nCourse enchaînée
+  15' Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-12@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 8 · Base · total 90 min\n\nVélo qualité (soir) ·
+  60 min · Test / simulation\nTEST FTP : 20' éch + 5' Z5\, 5' souple\, 2
+ 0' à fond (FTP = 95 % de la moyenne)\, 10' souple\n\nCourse EF (midi) ·
+  30 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-13@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 8 · Base · total 40 min\n\nNatation CSS / spécifiq
+ ue · 40 min · Z2\nNatation souple + 8x50 vite (~1800 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-14@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 8 · Base · total 70 min\n\nCourse qualité · 45 mi
+ n · Test / simulation\nTEST 5 km chrono sur plat (ou 30' à fond : FC mo
+ yenne des 20 dernières min = FC seuil)\n\nRenforcement (midi) · 25 min 
+ · Gainage / force\nRenfo full body : squat goblet\, fentes arrière\, SD
+ T unilatéral\, pompes\, rowing\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-15@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 8 · Base · total 45 min\n\nVélo endurance · 45 mi
+ n · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-16@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 8 · Base · total 100 min\n\nNatation longue · 40 m
+ in · Z1-Z2\nRécupération technique : 1500 m souples\, éducatifs et ba
+ ttements\, aucune intensité\n\nCourse longue · 60 min · Z1-Z2\nCourse 
+ longue Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-17@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 8 · Base · total 90 min\n\nVélo long · 90 min · 
+ Z1-Z2\nSortie endurance Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-19@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 9 · Construction · total 115 min\n\nVélo qualité 
+ (soir) · 75 min · Z4\nSeuil HT : 3x12' à 95-100 % FTP r4'\n\nCourse EF
+  (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain pl
+ at
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-20@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 9 · Construction · total 60 min\n\nNatation CSS / s
+ pécifique · 60 min · Z4\nCSS : 400 éch\, 3x(4x100 Z4 r10s) r1'\, 300 
+ pull\, 200 souple (~2700 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-21@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 9 · Construction · total 85 min\n\nCourse qualité 
+ · 60 min · Z4\nSeuil : 4x8' Z4 r2'\n\nRenforcement (midi) · 25 min · 
+ Gainage / force\nRenfo force : squat\, step-up\, SDT unilatéral\, mollet
+ s excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-22@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 9 · Construction · total 60 min\n\nVélo endurance 
+ · 60 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-23@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 9 · Construction · total 145 min\n\nNatation longue
+  · 60 min · Z2\nSéance longue : 400 éch\, 3x800 Z2 (pull + plaquettes
+  sur la 2e) r30s\, 8x50 technique\, 200 souple (~3000 m)\n\nCourse longue
+  · 85 min · Z3\nCourse longue Z2\, 15' Z3 en fin
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-24@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 9 · Construction · total 180 min\n\nVélo long · 1
+ 65 min · Z2 + allure 70.3\nSortie longue Z2 dont 2x20' allure 70.3\n\nEn
+ chaînement (brick) · 15 min · Allure 70.3\nCourse enchaînée 15' allu
+ re 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-26@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 10 · Construction · total 120 min\n\nVélo qualité
+  (soir) · 80 min · Sweet spot\nSweet spot HT : 2x25' à 88-92 % FTP r5'
+ \n\nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)
+ \, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 10 · Construction · total 55 min\n\nNatation CSS / 
+ spécifique · 55 min · Z4\nCSS : 400 éch\, 6x200 Z4 r20s\, 200 souple 
+ (~2400 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-28@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 10 · Construction · total 80 min\n\nCourse qualité
+  · 55 min · Z5\nVO2 : 5x3' Z5 r2' trot\n\nRenforcement (midi) · 25 min
+  · Gainage / force\nRenfo force : squat\, step-up\, SDT unilatéral\, mo
+ llets excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-29@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 10 · Construction · total 55 min\n\nVélo endurance
+  · 55 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-30@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 10 · Construction · total 150 min\n\nNatation longu
+ e · 60 min · Z2\nSéance longue : 400 éch\, 3x800 Z2 (pull + plaquette
+ s sur la 2e) r30s\, 8x50 technique\, 200 souple (~3000 m)\n\nCourse longu
+ e · 90 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-01-31@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 10 · Construction · total 200 min\n\nVélo long · 
+ 180 min · Z2 + allure 70.3\nSortie longue Z2 dont 3x20' allure 70.3\n\nE
+ nchaînement (brick) · 20 min · Allure 70.3\nCourse enchaînée 20' all
+ ure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-02@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 11 · Construction · total 120 min\n\nVélo qualité
+  (soir) · 80 min · Z4\nSeuil HT : 4x10' à 95-100 % FTP r4'\n\nCourse E
+ F (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain p
+ lat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-03@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 11 · Construction · total 60 min\n\nNatation CSS / 
+ spécifique · 60 min · Z4\nCSS : 400 éch\, 16x100 Z4 r10s\, 200 souple
+  (~2600 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-04@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 11 · Construction · total 90 min\n\nCourse qualité
+  · 65 min · Z4\nSeuil : 3x12' Z4 r2'\n\nRenforcement (midi) · 25 min 
+ · Gainage / force\nRenfo force : squat\, step-up\, SDT unilatéral\, mol
+ lets excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 11 · Construction · total 155 min\n\nNatation longu
+ e · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec 
+ visée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lo
+ ngue · 95 min · Z3\nCourse longue dont 30' allure semi
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-07@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 11 · Construction · total 215 min\n\nVélo long · 
+ 195 min · Z2 + allure 70.3\nSortie longue Z2 dont 2x30' allure 70.3\n\nE
+ nchaînement (brick) · 20 min · Allure 70.3\nCourse enchaînée 20' all
+ ure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-09@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 12 · Construction · total 75 min\n\nVélo qualité 
+ (soir) · 45 min · Z2\nVélo souple Z1-Z2 + 5x1' cadence 110 rpm\n\nCour
+ se EF (midi) · 30 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terra
+ in plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-10@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 12 · Construction · total 45 min\n\nNatation CSS / 
+ spécifique · 45 min · Test / simulation\nTEST CSS : 400 m chrono + 200
+  m chrono
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-11@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 12 · Construction · total 60 min\n\nCourse qualité
+  · 40 min · Z2\nEF + 6 lignes droites\n\nRenforcement (midi) · 20 min 
+ · Gainage / force\nRenfo force : squat\, step-up\, SDT unilatéral\, mol
+ lets excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-12@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 12 · Construction · total 45 min\n\nVélo endurance
+  · 45 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-13@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 12 · Construction · total 100 min\n\nNatation longu
+ e · 40 min · Z1-Z2\nRécupération technique : 1500 m souples\, éducat
+ ifs et battements\, aucune intensité\n\nCourse longue · 60 min · Z1-Z2
+ \nCourse longue Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-14@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 12 · Construction · total 105 min\n\nVélo long · 
+ 105 min · Z1-Z2\nSortie endurance Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-16@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 13 · Construction · total 120 min\n\nVélo qualité
+  (soir) · 80 min · Z4-Z5\nSur-sous HT : 4x(6' à 95 % / 2' à 105 % FTP
+ ) r4'\n\nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respirat
+ oire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-17@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 13 · Construction · total 60 min\n\nNatation CSS / 
+ spécifique · 60 min · Z4\nCSS : 400 éch\, 4x400 Z3-Z4 r20s\, 4x50 vit
+ e (~2600 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-18@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 13 · Construction · total 90 min\n\nCourse qualité
+  · 65 min · Z3\nTempo : 2x20' Z3 r3'\n\nRenforcement (midi) · 25 min 
+ · Gainage / force\nRenfo force : squat\, step-up\, SDT unilatéral\, mol
+ lets excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-19@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 13 · Construction · total 30 min\n\nVélo endurance
+  · 30 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-20@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 13 · Construction · total 155 min\n\nNatation longu
+ e · 60 min · Z2\nSéance longue : 400 éch\, 3x800 Z2 (pull + plaquette
+ s sur la 2e) r30s\, 8x50 technique\, 200 souple (~3000 m)\n\nCourse longu
+ e · 95 min · Z3\nCourse longue progressive (Z2 vers Z3)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-21@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 13 · Construction · total 205 min\n\nVélo long · 
+ 180 min · Z2 + allure 70.3\nSortie longue Z2 dont 3x20' allure 70.3\n\nE
+ nchaînement (brick) · 25 min · Allure 70.3\nCourse enchaînée 25' all
+ ure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-23@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 14 · Construction · total 125 min\n\nVélo qualité
+  (soir) · 85 min · Z4\nSeuil HT : 3x15' à 95-100 % FTP r5'\n\nCourse E
+ F (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain p
+ lat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-24@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 14 · Construction · total 60 min\n\nNatation CSS / 
+ spécifique · 60 min · Z4\nCSS : 400 éch\, 3x500 Z3 r30s\, 6x50 vite (
+ ~2600 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-25@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 14 · Construction · total 85 min\n\nCourse qualité
+  · 60 min · Z5\nIntervalles 6x1 km Z5 r1'30\n\nRenforcement (midi) · 2
+ 5 min · Gainage / force\nRenfo force : squat\, step-up\, SDT unilatéral
+ \, mollets excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 14 · Construction · total 160 min\n\nNatation longu
+ e · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec 
+ visée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lo
+ ngue · 100 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-02-28@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 14 · Construction · total 220 min\n\nVélo long · 
+ 195 min · Z2 + allure 70.3\nSortie longue vallonnée Z2 dont 2x30' allur
+ e 70.3\n\nEnchaînement (brick) · 25 min · Allure 70.3\nCourse enchaîn
+ ée 25' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-02@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 15 · Construction · total 115 min\n\nVélo qualité
+  (soir) · 75 min · Z5\nVO2 HT : 6x4' à 110 % FTP r4'\n\nCourse EF (mid
+ i) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-03@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 15 · Construction · total 65 min\n\nNatation CSS / 
+ spécifique · 65 min · Z4\nCSS : 400 éch\, 20x100 Z4 r10s\, 200 souple
+  (~2800 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-04@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 15 · Construction · total 90 min\n\nCourse qualité
+  · 65 min · Z4\nSeuil : 2x2 km + 2x1 km Z4 r2'\n\nRenforcement (midi) 
+ · 25 min · Gainage / force\nRenfo force : squat\, step-up\, SDT unilat
+ éral\, mollets excentriques\, gainage (3 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 15 · Construction · total 160 min\n\nNatation longu
+ e · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec 
+ visée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lo
+ ngue · 100 min · Z2 + allure 70.3\nCourse longue dont 3x10' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-07@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 15 · Construction · total 230 min\n\nVélo long · 
+ 210 min · Z2 + allure 70.3\nSortie longue Z2 dont 3x20' allure 70.3\n\nE
+ nchaînement (brick) · 20 min · Allure 70.3\nCourse enchaînée 20' all
+ ure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-09@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 16 · Construction · total 90 min\n\nVélo qualité 
+ (soir) · 60 min · Test / simulation\nTEST FTP 20'\n\nCourse EF (midi) 
+ · 30 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-10@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 16 · Construction · total 40 min\n\nNatation CSS / 
+ spécifique · 40 min · Z2\nNatation souple + 8x50 vite
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-11@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 16 · Construction · total 75 min\n\nCourse qualité
+  · 55 min · Test / simulation\nTEST 10 km chrono (ou course officielle 
+ de 10 km)\n\nRenforcement (midi) · 20 min · Gainage / force\nRenfo forc
+ e : squat\, step-up\, SDT unilatéral\, mollets excentriques\, gainage (3
+  tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-12@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 16 · Construction · total 45 min\n\nVélo endurance
+  · 45 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-13@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 16 · Construction · total 95 min\n\nNatation longue
+  · 40 min · Z1-Z2\nRécupération technique : 1500 m souples\, éducati
+ fs et battements\, aucune intensité\n\nCourse longue · 55 min · Z1-Z2\
+ nCourse longue Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-14@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 16 · Construction · total 105 min\n\nVélo long · 
+ 105 min · Z1-Z2\nSortie endurance Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-16@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 17 · Spécifique · total 115 min\n\nVélo qualité 
+ (soir) · 85 min · Allure 70.3\nAllure 70.3 HT : 3x20' à 78-82 % FTP en
+  position aéro r5'\n\nCourse EF (midi) · 30 min · Z2\nCourse EF Z2 (ai
+ sance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-17@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 17 · Spécifique · total 60 min\n\nNatation CSS / s
+ pécifique · 60 min · Allure 70.3\nSpécifique : 400 éch\, 4x400 Z3 (a
+ llure course) r20s\, 4x50 vite (~2600 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-18@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 17 · Spécifique · total 85 min\n\nCourse qualité 
+ · 65 min · Allure 70.3\n3x3 km allure 70.3 r2'\n\nRenforcement (midi) 
+ · 20 min · Gainage / force\nRenfo entretien : gainage\, fessiers\, moll
+ ets excentriques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-20@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 17 · Spécifique · total 160 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 100 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-21@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 17 · Spécifique · total 240 min\n\nVélo long · 2
+ 10 min · Z2 + allure 70.3\nSortie longue vallonnée\, 2x45' allure 70.3\
+ , 80 g glucides/h\n\nEnchaînement (brick) · 30 min · Allure 70.3\nCour
+ se enchaînée 30' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-23@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 18 · Spécifique · total 125 min\n\nVélo qualité 
+ (soir) · 85 min · Z4\nSeuil HT : 3x15' à 95-100 % FTP r5'\n\nCourse EF
+  (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain pl
+ at
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-24@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 18 · Spécifique · total 60 min\n\nNatation CSS / s
+ pécifique · 60 min · Z4\nCSS : 400 éch\, 5x300 Z4 r20s\, 300 pull (~2
+ 600 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-25@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 18 · Spécifique · total 80 min\n\nCourse qualité 
+ · 60 min · Z4\nSeuil : 3x10' Z4 r2'\n\nRenforcement (midi) · 20 min ·
+  Gainage / force\nRenfo entretien : gainage\, fessiers\, mollets excentri
+ ques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 18 · Spécifique · total 165 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 105 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-28@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 18 · Spécifique · total 230 min\n\nVélo long · 2
+ 10 min · Z2 + allure 70.3\nSortie longue type parcours Rapperswil\, 3x30
+ ' allure 70.3\, montées ≤ 105 % FTP\n\nEnchaînement (brick) · 20 min
+  · Allure 70.3\nCourse enchaînée 20' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-30@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 19 · Spécifique · total 115 min\n\nVélo qualité 
+ (soir) · 80 min · Allure 70.3\nAllure 70.3 HT : 2x30' à 78-82 % FTP r5
+ '\n\nCourse EF (midi) · 35 min · Z2\nCourse EF Z2 (aisance respiratoire
+ )\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-03-31@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 19 · Spécifique · total 60 min\n\nNatation CSS / s
+ pécifique · 60 min · Allure 70.3\nSpécifique : 400 éch\, 2x800 allur
+ e course r30s\, 4x50 vite (~2600 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-01@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 19 · Spécifique · total 85 min\n\nCourse qualité 
+ · 65 min · Allure 70.3\nTempo : 2x25' allure 70.3 r3'\n\nRenforcement (
+ midi) · 20 min · Gainage / force\nRenfo entretien : gainage\, fessiers\
+ , mollets excentriques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-03@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 19 · Spécifique · total 160 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 100 min · Z2 + allure 70.3\nCourse longue 1h40 dont 40' allure 70
+ .3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-04@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 19 · Spécifique · total 240 min\n\nVélo long · 2
+ 10 min · Z2 + allure 70.3\nSortie longue Z2 dont 3x20' allure 70.3\n\nEn
+ chaînement (brick) · 30 min · Allure 70.3\nCourse enchaînée 30' allu
+ re 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 20 · Spécifique · total 75 min\n\nVélo qualité (
+ soir) · 45 min · Z2\nVélo souple + 5x1' cadence 110 rpm\n\nCourse EF (
+ midi) · 30 min · Z2\nCourse EF Z2 (aisance respiratoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-07@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 20 · Spécifique · total 45 min\n\nNatation CSS / s
+ pécifique · 45 min · Test / simulation\nTEST CSS : 400 m chrono + 200 
+ m chrono
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-08@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 20 · Spécifique · total 60 min\n\nCourse qualité 
+ · 40 min · Z2\nEF + 6 lignes droites\n\nRenforcement (midi) · 20 min 
+ · Gainage / force\nRenfo entretien : gainage\, fessiers\, mollets excent
+ riques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-09@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 20 · Spécifique · total 45 min\n\nVélo endurance 
+ · 45 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-10@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:🏊 Natation longue + 🚴 Vélo endurance
+DESCRIPTION:Semaine 20 · Spécifique · total 130 min\n\nNatation longue
+  · 40 min · Z1-Z2\nRécupération technique : 1500 m souples\, éducati
+ fs et battements\, aucune intensité\n\nVélo endurance · 90 min · Z1-Z
+ 2\nVélo endurance Z2 facile (samedi)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-11@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:🏃 Semi de Zurich (à confirmer)
+DESCRIPTION:Semaine 20 · Spécifique · total 110 min\n\nSemi de Zurich 
+ (à confirmer) · 110 min · Allure 70.3\nSEMI-MARATHON DE ZURICH (à con
+ firmer) : à l'allure 70.3 (5'10-5'15/km)\, pas plus vite
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Semi de Zurich (à confirmer)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-13@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 21 · Spécifique · total 110 min\n\nVélo qualité 
+ (soir) · 80 min · Sweet spot\nSweet spot HT : 3x15' à 88-92 % FTP r4'\
+ n\nCourse EF (midi) · 30 min · Z2\nCourse EF Z2 (aisance respiratoire)\
+ , terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-14@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 21 · Spécifique · total 60 min\n\nNatation CSS / s
+ pécifique · 60 min · Z4\nCSS : 400 éch\, 3x(3x200 Z4 r15s) r1' (~2600
+  m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-15@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 21 · Spécifique · total 80 min\n\nCourse qualité 
+ · 65 min · Z3\n5x2 km allure semi r1'\n\nRenforcement (midi) · 15 min 
+ · Gainage / force\nRenfo entretien : gainage\, fessiers\, mollets excent
+ riques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-17@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 21 · Spécifique · total 150 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 90 min · Z2\nCourse longue Z2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-18@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 21 · Spécifique · total 260 min\n\nVélo long · 2
+ 40 min · Z2 + allure 70.3\nSortie longue 4h Z2 dont 2x40' allure 70.3\, 
+ nutrition de course\n\nEnchaînement (brick) · 20 min · Allure 70.3\nCo
+ urse enchaînée 20' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-20@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 22 · Spécifique · total 110 min\n\nVélo qualité 
+ (soir) · 70 min · Allure 70.3\nAllure 70.3 HT : 3x15' à 78-82 % FTP\n\
+ nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, 
+ terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-21@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 22 · Spécifique · total 55 min\n\nNatation CSS / s
+ pécifique · 55 min · Allure 70.3\nSpécifique : 400 éch\, 1500 m allu
+ re course en continu\, 200 souple
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-22@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 22 · Spécifique · total 75 min\n\nCourse qualité 
+ · 55 min · Z4\nSeuil : 4x8' Z4 r2'\n\nRenforcement (midi) · 20 min · 
+ Gainage / force\nRenfo entretien : gainage\, fessiers\, mollets excentriq
+ ues\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-23@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 22 · Spécifique · total 60 min\n\nVélo endurance 
+ · 60 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-24@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🏊 Natation activation + 🏃 Course activation
+DESCRIPTION:Semaine 22 · Spécifique · total 45 min\n\nNatation activat
+ ion · 25 min · Allure 70.3\n1000 m dont 4x100 allure course\, en combin
+ aison si possible\n\nCourse activation · 20 min · Z2\n20' EF + 4 lignes
+  droites\, repérage des transitions
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation activation + 🏃 Course activation
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-25@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:🏊 Triathlon M de Cannes : natation + 🚴 Triathlon M de Canne
+ s : vélo + 🏃 Triathlon M de Cannes : course
+DESCRIPTION:Semaine 22 · Spécifique · total 150 min\n\nTriathlon M de 
+ Cannes : natation · 30 min · Z4\nTRIATHLON M DE CANNES (à confirmer) :
+  1\,5 km\, départ contrôlé puis allure seuil\n\nTriathlon M de Cannes 
+ : vélo · 75 min · Z2\nTRIATHLON M DE CANNES : vélo 40 km à 85-90 % F
+ TP\n\nTriathlon M de Cannes : course · 45 min · Z4\nTRIATHLON M DE CANN
+ ES : 10 km au seuil
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Triathlon M de Cannes : natation + 🚴 Triathlon M de C
+ annes : vélo + 🏃 Triathlon M de Cannes : course
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 23 · Spécifique · total 115 min\n\nVélo qualité 
+ (soir) · 85 min · Allure 70.3\nAllure 70.3+ HT : 3x20' à 80-84 % FTP r
+ 5'\n\nCourse EF (midi) · 30 min · Z2\nCourse EF Z2 (aisance respiratoir
+ e)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-28@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 23 · Spécifique · total 45 min\n\nNatation CSS / s
+ pécifique · 45 min · Allure 70.3\nEau libre en combinaison si eau ≥ 
+ 14 °C (sinon piscine) : 30-40' dont 4x5' allure course + départs group
+ és
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-04-29@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 23 · Spécifique · total 85 min\n\nCourse qualité 
+ · 65 min · Allure 70.3\n3x3 km allure 70.3 r2'\n\nRenforcement (midi) 
+ · 20 min · Gainage / force\nRenfo entretien : gainage\, fessiers\, moll
+ ets excentriques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-01@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 23 · Spécifique · total 160 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 100 min · Z2 + allure 70.3\nCourse longue 1h40 Z2\, 20' allure 70
+ .3 en fin
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-02@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 23 · Spécifique · total 255 min\n\nVélo long · 2
+ 25 min · Z2 + allure 70.3\nSortie longue vallonnée Z2 dont 2x45' allure
+  70.3\n\nEnchaînement (brick) · 30 min · Allure 70.3\nCourse enchaîn
+ ée 30' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-04@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 24 · Spécifique · total 90 min\n\nVélo qualité (
+ soir) · 60 min · Test / simulation\nTEST FTP 20' (fixe la puissance de 
+ course)\n\nCourse EF (midi) · 30 min · Z2\nCourse EF Z2 (aisance respir
+ atoire)\, terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-05@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 24 · Spécifique · total 35 min\n\nNatation CSS / s
+ pécifique · 35 min · Z2\nEau libre souple 30' (combinaison\, visée)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 24 · Spécifique · total 60 min\n\nCourse qualité 
+ · 40 min · Z2\nEF + 6 lignes droites\n\nRenforcement (midi) · 20 min 
+ · Gainage / force\nRenfo entretien : gainage\, fessiers\, mollets excent
+ riques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-07@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 24 · Spécifique · total 45 min\n\nVélo endurance 
+ · 45 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-08@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 24 · Spécifique · total 100 min\n\nNatation longue
+  · 40 min · Z1-Z2\nRécupération technique : 1500 m souples\, éducati
+ fs et battements\, aucune intensité\n\nCourse longue · 60 min · Z1-Z2\
+ nCourse longue Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-09@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:🚴 Vélo long
+DESCRIPTION:Semaine 24 · Spécifique · total 120 min\n\nVélo long · 1
+ 20 min · Z1-Z2\nSortie endurance Z2 facile
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-11@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 25 · Spécifique · total 110 min\n\nVélo qualité 
+ (soir) · 70 min · Allure 70.3\nAllure 70.3 HT : 2x20' à 78-82 % FTP\n\
+ nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\, 
+ terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-12@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 25 · Spécifique · total 50 min\n\nNatation CSS / s
+ pécifique · 50 min · Z4\nCSS : 400 éch\, 10x100 Z4 r10s\, 200 souple
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-13@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 25 · Spécifique · total 80 min\n\nCourse qualité 
+ · 60 min · Allure 70.3\n3x2 km allure 70.3 r2'\n\nRenforcement (midi) 
+ · 20 min · Gainage / force\nRenfo entretien : gainage\, fessiers\, moll
+ ets excentriques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-14@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 25 · Spécifique · total 45 min\n\nVélo endurance 
+ · 45 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-15@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 25 · Spécifique · total 135 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 75 min · Z2\nCourse EF
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-16@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:🏊 Natation (répétition) + 🚴 Vélo long + 🏃 Enchaîneme
+ nt (brick)
+DESCRIPTION:Semaine 25 · Spécifique · total 240 min\n\nNatation (rép
+ étition) · 30 min · Test / simulation\nRÉPÉTITION : 1500 m eau libre
+  allure course en combinaison avant le vélo\n\nVélo long · 180 min · 
+ Test / simulation\nRÉPÉTITION : 3h vélo allure course avec tenue\, nut
+ rition et ravitaillement de course\n\nEnchaînement (brick) · 30 min · 
+ Test / simulation\nRÉPÉTITION : course enchaînée 30' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation (répétition) + 🚴 Vélo long + 🏃 Enchaî
+ nement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-18@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 26 · Spécifique · total 120 min\n\nVélo qualité 
+ (soir) · 80 min · Sweet spot\nSweet spot HT : 3x15' à 88-92 % FTP r4'\
+ n\nCourse EF (midi) · 40 min · Z2\nCourse EF Z2 (aisance respiratoire)\
+ , terrain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-19@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 26 · Spécifique · total 55 min\n\nNatation CSS / s
+ pécifique · 55 min · Allure 70.3\nEau libre (ou piscine) en combinaiso
+ n : 400 éch\, 3x500 allure course r20s\, 4x50 vite (~2500 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-20@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 26 · Spécifique · total 80 min\n\nCourse qualité 
+ · 60 min · Z4\nSeuil : 3x10' Z4 r2'\n\nRenforcement (midi) · 20 min ·
+  Gainage / force\nRenfo entretien : gainage\, fessiers\, mollets excentri
+ ques\, mobilité hanches (2 tours)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-22@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 26 · Spécifique · total 160 min\n\nNatation longue
+  · 60 min · Z3\nSéance longue : 300 éch\, 2500 m continu Z2-Z3 avec v
+ isée toutes les 6 à 8 respirations\, 200 souple (~3000 m)\n\nCourse lon
+ gue · 100 min · Z2 + allure 70.3\nDernière course longue : 1h40 dont 3
+ x15' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-23@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 26 · Spécifique · total 240 min\n\nVélo long · 2
+ 10 min · Z2 + allure 70.3\nSortie longue Z2 dont 2x45' allure 70.3\n\nEn
+ chaînement (brick) · 30 min · Allure 70.3\nCourse enchaînée 30' allu
+ re 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-25@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+DESCRIPTION:Semaine 27 · Affûtage · total 95 min\n\nVélo qualité (so
+ ir) · 60 min · Allure 70.3\nAllure 70.3 HT : 3x10' à 78-82 % FTP\n\nCo
+ urse EF (midi) · 35 min · Z2\nCourse EF Z2 (aisance respiratoire)\, ter
+ rain plat
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo qualité (soir) + 🏃 Course EF (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-26@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:🏊 Natation CSS / spécifique
+DESCRIPTION:Semaine 27 · Affûtage · total 40 min\n\nNatation CSS / sp
+ écifique · 40 min · Z4\nCSS : 400 éch\, 8x100 Z4 r15s\, 200 souple (~
+ 1800 m)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation CSS / spécifique
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-27@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:🏃 Course qualité + 💪 Renforcement (midi)
+DESCRIPTION:Semaine 27 · Affûtage · total 60 min\n\nCourse qualité ·
+  45 min · Allure 70.3\n4x1 km allure 70.3 r1'30\n\nRenforcement (midi) 
+ · 15 min · Gainage / force\nMobilité + gainage léger
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course qualité + 💪 Renforcement (midi)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-28@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:🚴 Vélo endurance
+DESCRIPTION:Semaine 27 · Affûtage · total 45 min\n\nVélo endurance ·
+  45 min · Z2\nVélo endurance Z2 souple (HT)\, cadence 85-95 rpm
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo endurance
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-29@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🏊 Natation longue + 🏃 Course longue
+DESCRIPTION:Semaine 27 · Affûtage · total 115 min\n\nNatation longue 
+ · 45 min · Allure 70.3\nEau libre ou piscine : 1800 m dont 6x100 allure
+  course\n\nCourse longue · 70 min · Z2 + allure 70.3\nCourse Z2 dont 10
+ ' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation longue + 🏃 Course longue
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-05-30@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:🚴 Vélo long + 🏃 Enchaînement (brick)
+DESCRIPTION:Semaine 27 · Affûtage · total 165 min\n\nVélo long · 150
+  min · Allure 70.3\nSortie 2h30 dont 3x15' allure course (vélo de cours
+ e réglé)\n\nEnchaînement (brick) · 15 min · Allure 70.3\nCourse ench
+ aînée 15' allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo long + 🏃 Enchaînement (brick)
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-06-01@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:🏊 Natation activation + 🏃 Course activation
+DESCRIPTION:Semaine 28 · Affûtage · total 60 min\n\nNatation activatio
+ n · 30 min · Allure 70.3\nEau libre 1200 m dont 4x100 allure course\, c
+ ombinaison de course\n\nCourse activation · 30 min · Allure 70.3\n25' E
+ F + 4x30" allure 70.3
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏊 Natation activation + 🏃 Course activation
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-06-02@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:🚴 Vélo activation
+DESCRIPTION:Semaine 28 · Affûtage · total 45 min\n\nVélo activation 
+ · 45 min · Allure 70.3\n45' dont 3x3' allure course\, vérifier le vél
+ o (pneus\, freins\, vitesses)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Vélo activation
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-06-03@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:🏃 Course activation
+DESCRIPTION:Semaine 28 · Affûtage · total 20 min\n\nCourse activation 
+ · 20 min · Z2\n20' EF + 4 lignes droites
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏃 Course activation
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-06-05@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🚴 Activation
+DESCRIPTION:Semaine 28 · Affûtage · total 40 min\n\nActivation · 40 m
+ in · Allure 70.3\n20' vélo avec 3x1' allure course + 10' course + 10' n
+ age\, puis dépôt du vélo
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🚴 Activation
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:p703-2027-06-06@prepa703
+DTSTAMP:20261121T182856Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:🏁 IRONMAN 70.3 RAPPERSWIL-JONA
+DESCRIPTION:Semaine 28 · Affûtage · total 330 min\n\nIRONMAN 70.3 RAPP
+ ERSWIL-JONA · 330 min · Course\n1\,9 km nage + 90 km vélo + 21\,1 km c
+ ourse : suivre le plan de course (onglet Conseils)
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:🏁 IRONMAN 70.3 RAPPERSWIL-JONA
+TRIGGER:PT7H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
