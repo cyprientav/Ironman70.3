@@ -1,7 +1,8 @@
 name: Notifications
 on:
   schedule:
-    - cron: '15 5 * * *'   # séance du jour : 6 h 15 (hiver) / 7 h 15 (été) à Zurich
+    - cron: '45 5 * * *'   # séance du jour : 6 h 45 à Zurich en hiver (UTC+1)
+    - cron: '45 4 * * *'   # séance du jour : 6 h 45 à Zurich en été (UTC+2)
     - cron: '0 18 * * 0'   # dimanche soir : aperçu de la semaine
   workflow_dispatch:
     inputs:
@@ -18,3 +19,4 @@ jobs:
       - run: node scripts/notify.mjs "${{ github.event.inputs.mode || (github.event.schedule == '0 18 * * 0' && 'weekly' || 'daily') }}"
         env:
           PUSH_CONFIG: ${{ secrets.PUSH_CONFIG }}
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '' }}

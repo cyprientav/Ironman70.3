@@ -17,6 +17,11 @@ const fmt = m => m < 60 ? `${m}'` : `${Math.floor(m / 60)}h${String(m % 60).padS
 const day = d => plan.sessions.filter(s => s.d === d && s.sp !== 'Repos');
 const race = Math.round((new Date(plan.race + 'T12:00:00Z') - new Date(todayStr + 'T12:00:00Z')) / 864e5);
 
+// Deux horaires UTC couvrent l'heure d'hiver et d'été : on n'envoie que celui qui tombe vers 6 h 45 à Zurich
+const hm = new Intl.DateTimeFormat('en-GB', { timeZone: 'Europe/Zurich', hour: '2-digit', minute: '2-digit', hour12: false }).format(now);
+const mins = +hm.slice(0, 2) * 60 + +hm.slice(3, 5);
+if (mode === 'daily' && !process.env.FORCE && (mins < 6 * 60 + 30 || mins > 7 * 60 + 40)) { console.log(`Il est ${hm} à Zurich : pas l'horaire de 6 h 45, rien à envoyer.`); process.exit(0); }
+
 let msg = null;
 if (mode === 'daily') {
   const ss = day(todayStr);

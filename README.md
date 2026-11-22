@@ -16,7 +16,7 @@ Application web installable (PWA) pour suivre la préparation à l'IRONMAN 70.3 
 3. Ouvre l'app depuis l'icône, puis va dans **Réglages › Activer les notifications** (iOS 16.4 ou plus récent).
 
 ## Notifications push (GitHub Actions)
-- Elles sont envoyées tous les jours vers 6 h 15 l'hiver et 7 h 15 l'été (heure de Zurich), avec la séance du jour.
+- Elles sont envoyées tous les jours à 6 h 45 (heure de Zurich, été comme hiver), avec la séance du jour.
 - Le dimanche à 19 h ou 20 h, tu reçois l'aperçu de la semaine suivante.
 - Pour les mettre en place, copie le code affiché dans l'app (Réglages › Notifications) dans un secret du dépôt nommé `PUSH_CONFIG` : *Settings › Secrets and variables › Actions › New repository secret*.
 - Pour tester, va dans l'onglet *Actions › Notifications › Run workflow*.
