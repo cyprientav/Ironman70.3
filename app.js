@@ -570,7 +570,12 @@ document.addEventListener('visibilitychange', () => { if (document.visibilitySta
 
 // ---------- Démarrage ----------
 (async () => {
-  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  if ('serviceWorker' in navigator) {
+    // Une nouvelle version du service worker prend la main : on recharge une fois pour afficher la mise à jour
+    const hadController = !!navigator.serviceWorker.controller; let reloaded = false;
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadController && !reloaded) { reloaded = true; location.reload(); } });
+    navigator.serviceWorker.register('sw.js').then(r => r.update()).catch(() => {});
+  }
   const q = new URLSearchParams(location.search).get('tab'); if (q && views[q]) tab = q;
   try { await loadData(); } catch (e) { $('#view').innerHTML = `<div class="card"><div style="font-weight:600">Le plan n'a pas pu se charger</div><p class="small muted">Vérifie ta connexion : la première ouverture a besoin d'Internet, ensuite l'app marche hors ligne.</p><button class="btn block" onclick="location.reload()">Réessayer</button></div>`; return; }
   render();
