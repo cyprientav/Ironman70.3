@@ -72,16 +72,20 @@ const byDate = {};          // date -> séances planifiées
 const actsByDate = {};      // date -> activités
 let done = store.get('done', {});   // clé séance -> {rpe, note, at}
 
-async function loadJSON(url) {
-  const r = await fetch(url, { cache: 'no-cache' });
+async function loadJSON(url, fresh) {
+  const r = await fetch(fresh ? `${url}?t=${Date.now()}` : url, { cache: fresh ? 'no-store' : 'no-cache' });
   if (!r.ok) throw new Error(url + ' ' + r.status);
   return r.json();
 }
 async function loadData() {
-  PLAN = await loadJSON('data/plan.json');
-  PLAN.sessions.forEach((s, i) => { s.key = `${s.d}#${i}`; (byDate[s.d] ||= []).push(s); });
+  if (!PLAN) {
+    PLAN = await loadJSON('data/plan.json');
+    for (const k in byDate) delete byDate[k];
+    PLAN.sessions.forEach((s, i) => { s.key = `${s.d}#${i}`; (byDate[s.d] ||= []).push(s); });
+  }
   let base = [];
-  try { const a = await loadJSON('data/activities.json'); base = a.activities || []; ACTS_UPDATED = a.updated; } catch {}
+  try { const a = await loadJSON('data/activities.json', true); base = a.activities || []; ACTS_UPDATED = a.updated; store.set('serverActs', a); }
+  catch { const c = store.get('serverActs'); if (c) { base = c.activities || []; ACTS_UPDATED = c.updated; } }
   const local = store.get('acts', []);
   const m = new Map(); [...base, ...local].forEach(a => m.set(String(a.id), a));
   ACTS = [...m.values()].sort((a, b) => a.t.localeCompare(b.t));
@@ -208,7 +212,8 @@ views.today = () => {
     html += `<h2>Cette semaine</h2><div class="kpis">
       <div class="kpi"><div class="l">Réalisé</div><div class="n">${fmtH(st.doneMin)}</div><div class="s">sur ${fmtH(st.planned)}</div></div>
       <div class="kpi"><div class="l">Séances</div><div class="n">${st.nDone}/${st.nPlan}</div><div class="s">faites</div></div>
-      <div class="kpi"><div class="l">Forme (TSB)</div><div class="n">${tsbNow()}</div><div class="s">${tsbLabel()}</div></div></div>`;
+      <div class="kpi"><div class="l">Forme (TSB)</div><div class="n">${tsbNow()}</div><div class="s">${tsbLabel()}</div></div></div>
+      <div class="meta-t" style="padding:0 4px;margin-top:-4px">${esc(syncStatus())}</div>`;
   }
 
   // Tests / courses à venir
@@ -363,7 +368,9 @@ views.settings = () => {
     <div class="grid2"><div class="field"><label for="s-id">Client ID</label><input id="s-id" inputmode="numeric" autocomplete="off" value="${esc(st.id || '')}"></div>
     <div class="field"><label for="s-secret">Client Secret</label><input id="s-secret" type="password" autocomplete="off" value="${esc(st.secret || '')}"></div></div>
     <button class="btn block" data-act="strava-connect">Connecter Strava</button>`}
-    <div class="meta-t" style="margin-top:8px">Les identifiants restent sur ton iPhone. Garmin Connect se synchronise déjà vers Strava, c'est donc Strava qui alimente l'app.</div>
+    ${st.refresh ? `<div class="field" style="margin-top:16px"><label for="stravacode">Synchro automatique (toutes les 20 min, même app fermée) : colle ce code une seule fois dans le secret GitHub <b>STRAVA_CONFIG</b></label><textarea readonly id="stravacode">${esc(JSON.stringify({ client_id: st.id, client_secret: st.secret, refresh_token: st.refresh }))}</textarea></div><button class="btn sec block" data-act="copy" data-target="stravacode">Copier le code</button>` : ''}
+    <div class="meta-t" style="margin-top:8px">${esc(syncStatus())}</div>
+    <div class="meta-t" style="margin-top:4px">Les identifiants restent sur ton iPhone. Garmin Connect se synchronise déjà vers Strava, c'est donc Strava qui alimente l'app.</div>
   </div>`;
   html += `<h2>Mes références</h2><div class="card">
     <div class="grid2">
@@ -436,6 +443,13 @@ async function stravaHandleCode() {
     return true;
   } catch (e) { toast('Connexion Strava impossible : ' + e.message); return false; }
 }
+function syncStatus() {
+  const err = store.get('stravaErr');
+  const at = ACTS_UPDATED ? new Date(ACTS_UPDATED.length === 19 ? ACTS_UPDATED + 'Z' : ACTS_UPDATED) : null;
+  const ago = at ? Math.max(0, Math.round((Date.now() - at) / 60000)) : null;
+  const when = ago == null ? 'jamais' : ago < 2 ? "à l'instant" : ago < 60 ? `il y a ${ago} min` : ago < 1440 ? `il y a ${Math.round(ago / 60)} h` : `le ${fmtShort(at)}`;
+  return `Dernière mise à jour des activités : ${when}.${err ? ' Dernière erreur Strava : ' + err : ''}`;
+}
 async function stravaSync(silent) {
   let st = store.get('strava', {});
   if (!st.refresh) return;
@@ -454,11 +468,11 @@ async function stravaSync(silent) {
     }
     const mapped = got.map(a => ({ id: String(a.id), n: a.name, sp: a.sport_type || a.type, t: (a.start_date_local || '').replace('Z', ''), km: Math.round((a.distance || 0) / 10) / 100, s: a.moving_time || 0, el: Math.round(a.total_elevation_gain || 0), re: a.suffer_score || null }));
     const local = new Map(store.get('acts', []).map(a => [a.id, a])); mapped.forEach(a => local.set(a.id, a));
-    store.set('acts', [...local.values()].slice(-400)); store.set('actsUpdated', new Date().toISOString().slice(0, 19));
+    store.set('acts', [...local.values()].slice(-400)); store.set('actsUpdated', new Date().toISOString().slice(0, 19)); store.del('stravaErr');
     await loadData();
     if (!silent) toast(`${mapped.length} activité(s) synchronisée(s).`);
     render();
-  } catch (e) { if (!silent) { toast('La synchronisation Strava n\'a pas abouti (' + e.message + '). Réessaie dans un instant.'); if (tab === 'settings') render(); } }
+  } catch (e) { store.set('stravaErr', e.message); if (!silent) { toast('La synchronisation Strava n\'a pas abouti (' + e.message + '). Réessaie dans un instant.'); if (tab === 'settings') render(); } }
 }
 
 // ---------- Feuille « séance faite » ----------
@@ -566,7 +580,10 @@ document.addEventListener('focusout', e => { if (e.target.matches?.('[data-v]'))
 document.addEventListener('input', e => { if (e.target.matches?.('[data-v]') && e.target.getAttribute('aria-invalid') === 'true') { e.target.setAttribute('aria-invalid', 'false'); const err = document.getElementById(e.target.getAttribute('aria-describedby')); if (err) err.textContent = ''; } });
 addEventListener('scroll', () => $('.top').classList.toggle('scrolled', scrollY > 4), { passive: true });
 addEventListener('resize', () => { if (tab === 'stats') afterStats(); });
-document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && PLAN) { render(); stravaSync(true); } });
+let lastRefresh = Date.now();
+async function refreshData() { lastRefresh = Date.now(); try { await loadData(); render(); } catch {} stravaSync(true); }
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible' && PLAN) refreshData(); });
+setInterval(() => { if (document.visibilityState === 'visible' && PLAN && Date.now() - lastRefresh > 5 * 60e3) refreshData(); }, 60e3);
 
 // ---------- Démarrage ----------
 (async () => {

@@ -1,0 +1,33 @@
+name: Synchro Strava
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: strava-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Synchroniser les activités
+        env:
+          STRAVA_CONFIG: ${{ secrets.STRAVA_CONFIG }}
+        run: |
+          if [ -z "$STRAVA_CONFIG" ]; then echo "Secret STRAVA_CONFIG absent, rien à faire."; exit 0; fi
+          node scripts/strava-sync.mjs
+      - name: Publier si changement
+        run: |
+          git add data/activities.json data/strava-token.enc 2>/dev/null || true
+          if git diff --cached --quiet; then echo "Aucune nouvelle activité."; exit 0; fi
+          git config user.name "strava-sync[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Synchro Strava automatique"
+          for i in 1 2 3; do git pull --rebase && git push && exit 0; sleep 5; done
+          exit 1

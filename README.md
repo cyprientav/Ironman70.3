@@ -26,7 +26,8 @@ Autre solution sans serveur : le bouton « Ajouter le plan au calendrier » impo
 ## Strava
 1. Crée une application API sur strava.com/settings/api. Pour « Authorization Callback Domain », indique le domaine de l'app, par exemple `pseudo.github.io`.
 2. Saisis le Client ID et le Client Secret dans Réglages › Strava, puis touche Connecter.
-3. Tes activités se synchronisent ensuite à chaque ouverture de l'app. Les identifiants restent stockés sur le téléphone.
+3. Tes activités se synchronisent ensuite à chaque ouverture de l'app, et toutes les 5 minutes tant qu'elle est ouverte.
+4. Pour une synchro automatique toutes les 20 minutes, même app fermée : copie le code affiché dans Réglages › Strava dans un secret du dépôt nommé `STRAVA_CONFIG`. Le workflow *Synchro Strava* met alors à jour `data/activities.json` tout seul.
 
 ## Fichiers
 - `data/plan.json` : le plan, généré depuis `plan/Plan_70.3_Rapperswil_2027.xlsx`.
